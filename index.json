@@ -1,0 +1,10 @@
+{
+    "baseUrl": "github://Speedy321@QM/",
+    "index": [
+        {
+            "uid": "biomesoplenty",
+            "url": "biomesoplenty.json"
+        }
+    ],
+    "repo": ""
+}
