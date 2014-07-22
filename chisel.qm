@@ -1,0 +1,71 @@
+{
+    "authors": {
+        "Maintainer": [
+	        "AUTOMATIC_MAIDEN"
+            "pokefenn"
+        ]
+    },
+    "categories": [
+        "Cosmetic"
+    ],
+    "description": "Chisel adds a huge variety of static blocks to the game. This mod will be very useful for people who like the construction aspect of Minecraft.",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "chisel",
+    "name": "Chisel",
+    "nemName": "Chisel-pokefenn",
+    "references": {
+    },
+    "repo": "speedy.qm",
+    "tags": [
+        "Cosmetic",
+		"Building"
+    ],
+    "uid": "chisel",
+    "updateUrl": "github://Speedy321@QM/chisel.qm",
+    "urls": {
+        "icon": [
+            "http://media-elerium.cursecdn.com/attachments/5/242/84355439.jpg"
+        ],
+        "logo": [
+            "http://media-elerium.cursecdn.com/attachments/5/242/84355439.jpg"
+        ],
+        "website": [
+            "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294901"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "1.5.4g",
+            "references": [
+            ],
+            "type": "release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://www.dropbox.com/s/w2hg30j6gxqahcj/Chisel-1.7.2-1.5.4g.jar?dl=1"
+                }
+            ]
+        },
+		{
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.5.6",
+            "references": [
+            ],
+            "type": "release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://www.dropbox.com/s/9rwl4iu4zbcj5d1/Chisel-1.7.10-1.5.6.jar?dl=1"
+                }
+            ]
+        }
+    ]
+}

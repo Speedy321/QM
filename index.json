@@ -4,6 +4,14 @@
         {
             "uid": "biomesoplenty",
             "url": "biomesoplenty.qm"
+        },
+		{
+            "uid": "carpenterblocks",
+            "url": "carpenterblocks.qm"
+        },
+        {
+            "uid": "chisel",
+            "url": "chisel.qm"
         }
     ],
     "repo": "speedy.qm"

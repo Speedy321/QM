@@ -1,0 +1,86 @@
+{
+    "authors": {
+        "Maintainer": [
+            "mineshopper"
+        ]
+    },
+    "categories": [
+        "Cosmetic"
+    ],
+    "description": "This mod adds slopes and a custom variety of vanilla-inspired blocks to Minecraft. The custom nature of these blocks allows players to cover them using most solid blocks in the game. Once covered, they look and act just like the block they're mimicking, but in entirely new shapes! For example, make some obsidian stairs that are resistant to explosions; or, make glowstone take the shape of a pyramid top. With Carpenter's Blocks, building takes on new possibilities!",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "CarpentersBlocks",
+    "name": "Carpenter's Blocks",
+    "nemName": "Carpenter'sBlocks",
+    "references": {
+    },
+    "repo": "speedy.qm",
+    "tags": [
+        "Cosmetic",
+		"Building"
+    ],
+    "uid": "carpenterblocks",
+    "updateUrl": "github://Speedy321@QM/carpenterblocks.qm",
+    "urls": {
+        "icon": [
+            "http://wiki.technicpack.net/images/7/7e/Carpenter%27s_Blocks.png"
+        ],
+        "logo": [
+            "http://i.imgur.com/72wZfGX.png"
+        ],
+        "website": [
+            "http://mineshopper.github.io/carpentersblocks/"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.6.4"
+            ],
+            "name": "3.2.5",
+            "references": [
+            ],
+            "type": "Dev",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://www.dropbox.com/s/rqysrbpv2pdbx2j/Carpenter%27s%20Blocks%20v3.2.5%20%5BDEV%5D%20-%20MC%201.6.4.zip?dl=1"
+                }
+            ]
+        },
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "3.2.5",
+            "references": [
+            ],
+            "type": "Dev",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://www.dropbox.com/s/r300sdp18f5rku5/Carpenter%27s%20Blocks%20v3.2.5%20%5BDEV%5D%20-%20MC%201.7.2.zip?dl=1"
+                }
+            ]
+        },
+		{
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "3.2.5",
+            "references": [
+            ],
+            "type": "Dev",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "https://www.dropbox.com/s/uvnv8bzlq9ld4u6/Carpenter%27s%20Blocks%20v3.2.5%20%5BDEV%5D%20-%20MC%201.7.10.zip?dl=1"
+                }
+            ]
+        }
+    ]
+}
