@@ -5,7 +5,7 @@
         ]
     },
     "categories": [
-        "Cosmetic"
+        "Utils"
     ],
     "description": "Utilities for asie's mods",
     "formatVersion": 1,
@@ -17,8 +17,8 @@
     },
     "repo": "speedy.qm",
     "tags": [
-        "Cosmetic",
-		"Building"
+        "Utils",
+        "Lib"
     ],
     "uid": "asielib",
     "updateUrl": "github://Speedy321@QM/asielib.qm",
