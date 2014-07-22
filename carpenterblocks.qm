@@ -37,22 +37,6 @@
         {
             "installType": "forgeMod",
             "mcCompat": [
-                "1.6.4"
-            ],
-            "name": "3.2.5",
-            "references": [
-            ],
-            "type": "Dev",
-            "urls": [
-                {
-                    "downloadType": "direct",
-                    "url": "https://www.dropbox.com/s/rqysrbpv2pdbx2j/Carpenter%27s%20Blocks%20v3.2.5%20%5BDEV%5D%20-%20MC%201.6.4.zip?dl=1"
-                }
-            ]
-        },
-        {
-            "installType": "forgeMod",
-            "mcCompat": [
                 "1.7.2"
             ],
             "name": "3.2.5",

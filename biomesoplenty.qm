@@ -39,23 +39,6 @@
         {
             "installType": "forgeMod",
             "mcCompat": [
-                "1.6.4"
-            ],
-            "name": "1.2.1.434",
-            "references": [
-            ],
-            "sha1": "c0cf91816c020ef9e7491af792533745725eeee6",
-            "type": "Release",
-            "urls": [
-                {
-                    "downloadType": "direct",
-                    "url": "http://files.minecraftforge.net/BiomesOPlenty/BiomesOPlenty-universal-1.6.4-1.2.1.434.jar"
-                }
-            ]
-        },
-        {
-            "installType": "forgeMod",
-            "mcCompat": [
                 "1.7.2"
             ],
             "name": "2.0.2.934",

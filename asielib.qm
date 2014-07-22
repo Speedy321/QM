@@ -1,7 +1,6 @@
 {
     "authors": {
         "Maintainer": [
-            "AUTOMATIC_MAIDEN"
             "asiekierka"
         ]
     },
@@ -21,7 +20,7 @@
         "Cosmetic",
 		"Building"
     ],
-    "uid": "statues",
+    "uid": "asielib",
     "updateUrl": "github://Speedy321@QM/asielib.qm",
     "urls": {
         "website": [
