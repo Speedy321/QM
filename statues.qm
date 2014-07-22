@@ -1,0 +1,82 @@
+{
+    "authors": {
+        "Maintainer": [
+            "AUTOMATIC_MAIDEN"
+            "asiekierka"
+        ]
+    },
+    "categories": [
+        "Cosmetic"
+    ],
+    "description": "Adds a hammer used to craft Statues.",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "statues",
+    "name": "Statues",
+    "nemName": "Asie'sStatues",
+    "references": {
+        "asielib":"github://Speedy321@QM/asielib.qm"
+    },
+    "repo": "speedy.qm",
+    "tags": [
+        "Cosmetic",
+		"Building"
+    ],
+    "uid": "statues",
+    "updateUrl": "github://Speedy321@QM/statues.qm",
+    "urls": {
+        "icon": [
+            "http://imageshack.com/a/img833/7291/m7oj.png"
+        ],
+        "logo": [
+            "http://imageshack.com/a/img833/7291/m7oj.png"
+        ],
+        "website": [
+            "http://mc.shinonome.ch/doku.php?id=wiki:statues"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "2.1.2",
+            "references": [
+                {
+                    "type":"depends",
+                    "uid":"asielib",
+                    "version":"1.7.2-0.2.7"
+                }
+            ],
+            "type": "release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.shinonome.ch/mods172/Statues/statues-1.7.2-2.1.2.jar"
+                }
+            ]
+        },
+		{
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "2.1.3",
+            "references": [
+                {
+                    "type":"depends",
+                    "uid":"asielib",
+                    "version":"1.7.10-0.2.7"
+                }
+            ],
+            "type": "release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.shinonome.ch/mods172/Statues/statues-1.7.10-2.1.3.jar"
+                }
+            ]
+        }
+    ]
+}

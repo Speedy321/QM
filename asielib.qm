@@ -1,0 +1,65 @@
+{
+    "authors": {
+        "Maintainer": [
+            "AUTOMATIC_MAIDEN"
+            "asiekierka"
+        ]
+    },
+    "categories": [
+        "Cosmetic"
+    ],
+    "description": "Utilities for asie's mods",
+    "formatVersion": 1,
+    "license": "",
+    "modId": "asielib",
+    "name": "asielib",
+    "nemName": "AsieLib",
+    "references": {
+    },
+    "repo": "speedy.qm",
+    "tags": [
+        "Cosmetic",
+		"Building"
+    ],
+    "uid": "statues",
+    "updateUrl": "github://Speedy321@QM/asielib.qm",
+    "urls": {
+        "website": [
+            "http://mc.shinonome.ch/doku.php?id=wiki:asielib"
+        ]
+    },
+    "versions": [
+        {
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.2"
+            ],
+            "name": "1.7.2-0.2.7",
+            "references": [
+            ],
+            "type": "release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.shinonome.ch/mods172/AsieLib/AsieLib-1.7.2-0.2.7.jar"
+                }
+            ]
+        },
+		{
+            "installType": "forgeMod",
+            "mcCompat": [
+                "1.7.10"
+            ],
+            "name": "1.7.10-0.2.7",
+            "references": [
+            ],
+            "type": "release",
+            "urls": [
+                {
+                    "downloadType": "direct",
+                    "url": "http://files.shinonome.ch/mods172/AsieLib/AsieLib-1.7.10-0.2.7.jar"
+                }
+            ]
+        }
+    ]
+}

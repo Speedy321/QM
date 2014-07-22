@@ -12,6 +12,14 @@
         {
             "uid": "chisel",
             "url": "chisel.qm"
+        },
+        {
+            "uid": "statues",
+            "url": "statues.qm"
+        },
+        {
+            "uid": "asielib",
+            "url": "asielib.qm"
         }
     ],
     "repo": "speedy.qm"
