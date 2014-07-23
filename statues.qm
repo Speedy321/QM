@@ -15,7 +15,7 @@
     "name": "Statues",
     "nemName": "Asie'sStatues",
     "references": {
-        "asielib":"github://Speedy321@QM/asielib.qm"
+        "asielib": "github://Speedy321@QM/asielib.qm"
     },
     "repo": "speedy.qm",
     "tags": [
